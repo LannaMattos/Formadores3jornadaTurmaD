@@ -1,3 +1,7 @@
+body{ background-color:#e7a97e
+}
+
+
 h1{
     color:crimson;
     text-align: center;
@@ -15,6 +19,6 @@ p{
     font-size: 20px;
 }
 
-background-color{ 
+{ 
     color:darksalmon;
 }
