@@ -4,5 +4,7 @@ h1{
     font-size: 50px;
 }
 h2{
-    color:crimson
+    color:crimson;
+    text-align: center;
+    font-size: 40px;
 }
