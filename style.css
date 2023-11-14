@@ -22,4 +22,6 @@ p{
 
 .imgmenor{
     width: 40% ; /*largura*/
+    display: block;
+    margin: auto;
 }
