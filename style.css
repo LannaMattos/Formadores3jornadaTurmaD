@@ -42,6 +42,8 @@ p{
     border-bottom: 2px; solid ;
     font-size: 32px;
     color: green;
+    justify-content: space-around;
+    display: flex;
 }
 
 .principal{
