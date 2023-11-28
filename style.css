@@ -37,13 +37,21 @@ p{
 }
 
 .cabecalho{
+    background-image: linear-gradient(#020007, #231152);
     padding:20px;
     background-color: #41393b;
-    border-bottom: 2px; solid ;
+    border-bottom: 2px; solid white; 
     font-size: 32px;
     color: green;
     justify-content: space-around;
     display: flex;
+}
+
+#banner{
+    width: 15% ; /*largura */
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
 }
 
 .principal{
