@@ -40,9 +40,9 @@ p{
     background-image: linear-gradient(#020007, #231152);
     padding:20px;
     background-color: #41393b;
-    border-bottom: 2px; solid white; 
+    border-bottom: 4px double rgb(239, 248, 225);
+    text-align: center;
     font-size: 32px;
-    color: green;
     justify-content: space-around;
     display: flex;
 }
