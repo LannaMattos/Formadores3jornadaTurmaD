@@ -37,7 +37,11 @@ p{
 }
 
 .cabecalho{
+    padding:20px;
     background-color: #41393b;
+    border-bottom: 2px; solid white;
+    font-size: 32px;
+    color: green;
 }
 
 .principal{
